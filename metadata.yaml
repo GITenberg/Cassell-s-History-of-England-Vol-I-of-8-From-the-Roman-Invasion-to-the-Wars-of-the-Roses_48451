@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Cassell's History of England, Vol. I (of 8)\r\nFrom the Roman Invasion to\
   \ the Wars of the Roses"
 url: http://www.gutenberg.org/ebooks/48451
